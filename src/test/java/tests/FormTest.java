@@ -31,7 +31,7 @@ public class FormTest {
         open("/automation-practice-form");
         executeJavaScript("$('footer').remove()");
         executeJavaScript("$('#fixedban').remove()");
-        $("#firstName").setValue(userName);
+        $("#firstлюблюнастюName").setValue(userName);
         $("#lastName").setValue(lastName);
         $("#userEmail").setValue(email);
         $("#genterWrapper").$(byText("Female")).click();
