@@ -9,7 +9,7 @@ public class FormWithPageObjectsTest extends TestBase{
         String userName = "Anastasia";
         String lastName = "S";
         String email = "andolphin@gmail.com";
-        String mobile = "89189723450";
+        String mobile = "8918972345";
         String BirthDay = ("08");
         String BirthMonth = ("February");
         String BirthYear = ("2021");

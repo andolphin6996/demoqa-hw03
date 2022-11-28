@@ -84,7 +84,7 @@ public class RegistrationPage {
     }
 
     public RegistrationPage fileUpload(String value) {
-        $("#uploadPicture").uploadFile(new File("src/test/resources/" + value));
+        $("#uploadPicture").uploadFile(new File("src/test/resources/img/" + value));
 
         return this;
     }
